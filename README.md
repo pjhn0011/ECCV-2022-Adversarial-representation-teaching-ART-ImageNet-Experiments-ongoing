@@ -1,5 +1,5 @@
 # Adversarial representation teaching
-ImageNet experimental results for with aversarial representation teaching (ART)
+ImageNet experimental results with aversarial representation teaching (ART)
 
 ## Classification error rate on the ImageNet
 Epochs | 1%  | 10%
