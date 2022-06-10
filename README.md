@@ -5,7 +5,7 @@ ImageNet experimental results with aversarial representation teaching (ART)
 ### ImageNet 10% semi-supervised learning (SSL) results
 Cartegories | Methods | Backbone | 1% | 10%
 |---|---|---|---|---|
-| Label Propagation: | [MPL](https://arxiv.org/abs/2003.10580) | ResNet50 | - |22.3
+| Label Propagation: | [MPL](https://arxiv.org/abs/2003.10580) | ResNet-50 | - |22.3
 | Representation Learning: | [BYOL](https://arxiv.org/abs/2006.07733) | ResNet-200x2 | - | 22.3
 | | [SimCLR](https://arxiv.org/abs/2002.05709) | ResNet-50x4 | - | 25.6
 | | [SimCLRv2](https://arxiv.org/abs/2006.10029) | ResNet-152x3, SK | - | 19.1
