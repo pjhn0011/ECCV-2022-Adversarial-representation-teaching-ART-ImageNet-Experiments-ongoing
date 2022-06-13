@@ -10,7 +10,7 @@ Cartegories | Methods | Backbone | 1% | 10%
 | | [SimCLR](https://arxiv.org/abs/2002.05709) | ResNet-50x4 | - | 25.6
 | | [SimCLRv2](https://arxiv.org/abs/2006.10029) | ResNet-152x3, SK | - | 19.1
 | | [PAWS](https://arxiv.org/abs/2104.13963) | ResNet-50x4 | - | 21.0
-| | ART-56 epochs | ResNet-50x4 | - | 36.9
+| | ART-60 epochs | ResNet-50x4 | - | 35.1
 
 ### Update history
 Epochs | 1%  | 10% | date
