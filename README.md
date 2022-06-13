@@ -18,5 +18,6 @@ Epochs | 1%  | 10% | date
 5     | -   | 53.6 | 2022-05-29
 30    | -   | 39.3 | 2022-05-29
 56    | -   | 36.9 | 2022-06-08
+60    | -   | 35.1 | 2022-06-12
 
 We will upload the code as soon as possible.
