@@ -1,7 +1,7 @@
 # Adversarial Representation Teaching with Perturbation-agnostic Student-Teacher Structure for Semi-supervised Learning
 ImageNet experimental results with aversarial representation teaching (ART)
 
-## Classification error rate (%) on the ImageNet
+## Top-1 classification error rate (%) on the ImageNet
 ### ImageNet 10% semi-supervised learning (SSL) results
 Cartegories | Methods | Backbone | 1% | 10%
 |---|---|---|---|---|
